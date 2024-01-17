@@ -11,6 +11,7 @@ With conda:
 
 Once you have pip install into your environment (virtual or not):
 
+Open ```bank-statement-reader/keys.py``` and set the OPEN_AI_KEY variable to your OpenAI key to authorize API calls
 
 ```python3.12 -m pip install -r requirements.txt```
 
