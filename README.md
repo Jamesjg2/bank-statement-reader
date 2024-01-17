@@ -17,6 +17,6 @@ Open ```bank-statement-reader/keys.py``` and set the OPEN_AI_KEY variable to you
 
 ```python3.12 start.py```
 
-Open the recommended ip from command line output in your browser
+Open the recommended ip from command line output in your browser. I currently have a live domain hosted at: https://370b088cda6187629c.gradio.live/
 
 Upload a bank statement and you will get an eligibility decision for a loan, and an explanation for why. You may ask follow up questions once you have uploaded a bank statement.
